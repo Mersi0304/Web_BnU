@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FB</name>
+   <tag></tag>
+   <elementGuidId>1675bb5c-a9d5-4cda-80e1-f6e6afc784d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/div[2]/div[2]/ul/li[3]/a/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e6f5429b-452d-481e-99b2-53a49c4e9da1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> group-hover:text-blue-900 text-slate-900</value>
+      <webElementGuid>bebff77c-f1b8-40d5-80c4-0307a09d0d9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bold &amp; Underline Communication</value>
+      <webElementGuid>d33ba8c1-492c-43a6-ba3d-9a350a86c849</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative w-full overflow-hidden&quot;]/div[3]/div[@class=&quot;bg-sky-300 min-h-screen pt-16 pb-28 sm:pb-24 md:pb-14 px-10 flex flex-wrap items-start justify-evenly&quot;]/div[@class=&quot;flex flex-col justify-start items-start w-full md:mb-24 md:max-w-none max-w-sm sm:px-4 md:w-1/2 lg:max-w-lg&quot;]/ul[@class=&quot;flex flex-col justify-start items-start gap-5&quot;]/li[3]/a[@class=&quot;flex items-center gap-2 cursor-pointer text-neutral-900 group&quot;]/p[@class=&quot;group-hover:text-blue-900 text-slate-900&quot;]</value>
+      <webElementGuid>774a3b3b-2778-43bb-af63-bf9e158cac42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/div[2]/div[2]/ul/li[3]/a/p[2]</value>
+      <webElementGuid>86aea73c-1c09-4875-bea3-0ca2c106bacc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect with Us'])[1]/following::p[6]</value>
+      <webElementGuid>d90d37f1-c9c4-4ef8-913d-2142f126d2c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sending . . .'])[1]/following::p[6]</value>
+      <webElementGuid>a9d407fc-6d73-4f42-84f1-8474d8b9df91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::p[6]</value>
+      <webElementGuid>f35c7327-5062-4f16-a15d-2652ed64b547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::p[6]</value>
+      <webElementGuid>1d1d5526-f300-44b1-882e-27990d1c1cae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/p[2]</value>
+      <webElementGuid>cfd779cd-7640-4a17-b1e7-f83cac2bba63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Bold &amp; Underline Communication' or . = 'Bold &amp; Underline Communication')]</value>
+      <webElementGuid>f03827a3-8979-4098-a3a4-03348782e381</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

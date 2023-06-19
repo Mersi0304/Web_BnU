@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WA</name>
+   <tag></tag>
+   <elementGuidId>0a68506a-fbd0-434c-8a0d-b0012c7468d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/div[2]/div[2]/ul/li/a/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>03fff4e6-0d0f-4144-a428-8c5aa3bc45ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> group-hover:text-blue-900 text-slate-900</value>
+      <webElementGuid>f1321a7b-f33d-471c-9077-49b14d49c33e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0811 6141 078</value>
+      <webElementGuid>f90eb451-dbc5-4b8d-9552-ad8b08c9c8bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative w-full overflow-hidden&quot;]/div[3]/div[@class=&quot;bg-sky-300 min-h-screen pt-16 pb-28 sm:pb-24 md:pb-14 px-10 flex flex-wrap items-start justify-evenly&quot;]/div[@class=&quot;flex flex-col justify-start items-start w-full md:mb-24 md:max-w-none max-w-sm sm:px-4 md:w-1/2 lg:max-w-lg&quot;]/ul[@class=&quot;flex flex-col justify-start items-start gap-5&quot;]/li[1]/a[@class=&quot;flex items-center gap-2 cursor-pointer text-neutral-900 group&quot;]/p[@class=&quot;group-hover:text-blue-900 text-slate-900&quot;]</value>
+      <webElementGuid>d4f69df9-4f0b-4ecd-a361-db08fb5faf31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/div[2]/div[2]/ul/li/a/p[2]</value>
+      <webElementGuid>c0704250-54ba-4928-a082-0f5422c103a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect with Us'])[1]/following::p[2]</value>
+      <webElementGuid>8adaa973-4eb1-403e-98b3-c08c133a1e30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sending . . .'])[1]/following::p[2]</value>
+      <webElementGuid>f1f0fe62-b168-4b42-833a-523525bc7be0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='0811 6141 078']/parent::*</value>
+      <webElementGuid>1f2614b5-6171-4ef0-9455-c03e523c7d0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>5ffcb4ab-115d-41ce-86ed-c7484678d5cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '0811 6141 078' or . = '0811 6141 078')]</value>
+      <webElementGuid>f6f2236f-dac8-4f60-93e7-3b77fd68dfb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

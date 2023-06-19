@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>IG_BnU</name>
+   <tag></tag>
+   <elementGuidId>e5974d97-2c49-4c67-98b6-65743dfd46cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/div[2]/div[2]/ul/li[2]/a/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>63492865-bfbb-4dcb-bea6-252e3c4ce6a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> group-hover:text-blue-900 text-slate-900</value>
+      <webElementGuid>c23789b3-8966-4c91-85c5-7c2c348d364a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bold &amp; Underline Communication</value>
+      <webElementGuid>9ecf3d87-cbf3-4e37-9304-fc252c42133b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative w-full overflow-hidden&quot;]/div[3]/div[@class=&quot;bg-sky-300 min-h-screen pt-16 pb-28 sm:pb-24 md:pb-14 px-10 flex flex-wrap items-start justify-evenly&quot;]/div[@class=&quot;flex flex-col justify-start items-start w-full md:mb-24 md:max-w-none max-w-sm sm:px-4 md:w-1/2 lg:max-w-lg&quot;]/ul[@class=&quot;flex flex-col justify-start items-start gap-5&quot;]/li[2]/a[@class=&quot;flex items-center gap-2 cursor-pointer text-neutral-900 group&quot;]/p[@class=&quot;group-hover:text-blue-900 text-slate-900&quot;]</value>
+      <webElementGuid>6dd55af4-8b1c-47a0-8c3c-7a54c9655232</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/div[2]/div[2]/ul/li[2]/a/p[2]</value>
+      <webElementGuid>e199b8f8-3a50-4d04-8820-0a596106a389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect with Us'])[1]/following::p[4]</value>
+      <webElementGuid>6c60a4f3-c02f-471c-b892-fff6d0923b1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sending . . .'])[1]/following::p[4]</value>
+      <webElementGuid>3d3b2935-67b7-4615-b63a-8e6296f1904f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/p[2]</value>
+      <webElementGuid>55328c95-3171-45d7-9495-8d8340e829f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Bold &amp; Underline Communication' or . = 'Bold &amp; Underline Communication')]</value>
+      <webElementGuid>72dc7233-1647-4381-a186-bc597bc963aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>email</name>
+   <tag></tag>
+   <elementGuidId>419e77b7-d6f7-482a-9eb3-508df103cbfc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/div[2]/div[2]/ul/li[4]/a/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a816fbda-d1a1-4891-8f20-56240e7ad3c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> group-hover:text-blue-900 text-slate-900</value>
+      <webElementGuid>ce74021d-c0bd-4897-b8f2-291f267881c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>banducommunication@gmail.com</value>
+      <webElementGuid>4babe6b0-38fd-4228-8b0f-61b885722cff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative w-full overflow-hidden&quot;]/div[3]/div[@class=&quot;bg-sky-300 min-h-screen pt-16 pb-28 sm:pb-24 md:pb-14 px-10 flex flex-wrap items-start justify-evenly&quot;]/div[@class=&quot;flex flex-col justify-start items-start w-full md:mb-24 md:max-w-none max-w-sm sm:px-4 md:w-1/2 lg:max-w-lg&quot;]/ul[@class=&quot;flex flex-col justify-start items-start gap-5&quot;]/li[4]/a[@class=&quot;flex items-center gap-2 cursor-pointer text-neutral-900 group&quot;]/p[@class=&quot;group-hover:text-blue-900 text-slate-900&quot;]</value>
+      <webElementGuid>66a001e0-30ef-4092-9ebd-9029cb945d11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/div[2]/div[2]/ul/li[4]/a/p[2]</value>
+      <webElementGuid>8aef7d1b-7ba0-4b18-8ede-47925dfcd8c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect with Us'])[1]/following::p[8]</value>
+      <webElementGuid>fe2b0e4f-08eb-4cbd-a3f7-966fa58ac6f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sending . . .'])[1]/following::p[8]</value>
+      <webElementGuid>4b2ff3d4-3f61-494d-954b-65cbca5f3655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::p[4]</value>
+      <webElementGuid>b355d87f-43d3-4b9b-83ac-5e989d2fb465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::p[4]</value>
+      <webElementGuid>e38c0b86-827c-43f7-a259-dcacf61735c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='banducommunication@gmail.com']/parent::*</value>
+      <webElementGuid>48364fd9-c8f1-4ec5-b655-58863b76ba70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/p[2]</value>
+      <webElementGuid>2193a58f-22be-42f8-8007-4d97109aadad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'banducommunication@gmail.com' or . = 'banducommunication@gmail.com')]</value>
+      <webElementGuid>14b284c1-4cad-4f5e-b26a-cc814a4a9400</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
